@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm (not) Fakeness</h1>
+<h1 align="center">Hi, I'm Juanjo</h1>
 <h3 align="center">A software systems engeneering student from Colombia</h3>
 
 - 🔭 I’m currently studying at [ICESI University](https://www.icesi.edu.co)
