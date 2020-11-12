@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **roguelike games**
 
-- 📝 I regulary write articles on [anime, manga and visual novels.](anime, manga and visual novels.)
+- 📝 I regulary write articles on anime, manga and visual novels.
 
 - 📫 How to reach me **juanjo312003@gmail.com**
 
