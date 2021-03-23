@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/findityourselfgit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="findityourselfgit" height="30" width="40" /></a>
+<a href="https://twitter.com/juanjobj3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="findityourselfgit" height="30" width="40" /></a>
 <a href="https://fb.com/fuckthatlol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fuckthatlol" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/therealfakeness" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="therealfakeness" height="30" width="40" /></a>
 </p>
