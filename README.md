@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **juanjo312003@gmail.com**
 
-- ⚡ Fun fact **I like TLT and KC's music a lot**
+- ⚡ Fun fact **My favorite musicians are Porter Robinson, King Crimson and Miracle Musical**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
